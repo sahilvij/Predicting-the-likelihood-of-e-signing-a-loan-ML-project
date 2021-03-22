@@ -12,4 +12,4 @@ SVM, Random Forest, Cross Validation, Grid Search
 
 
 ***UPDATE*** :
-A docker file has been added for this project on 03.22.2021.
+A Dockerfile has been added for this project on 03.22.2021.
