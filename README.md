@@ -11,5 +11,5 @@ The objective of this model is:
 SVM, Random Forest, Cross Validation, Grid Search
 
 
-********UPDATE******** :
+***UPDATE*** :
 A docker file has been added for this project on 03.22.2021.
