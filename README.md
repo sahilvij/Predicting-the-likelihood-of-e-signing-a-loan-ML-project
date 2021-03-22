@@ -9,3 +9,7 @@ The objective of this model is:
 
 **Tools & Libraries**: Jupyter Notebook, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, Logistic Regression,
 SVM, Random Forest, Cross Validation, Grid Search
+
+
+********UPDATE******** :
+A docker file has been added for this project on 03.22.2021.
